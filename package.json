@@ -23,7 +23,7 @@
     "faker": "^4.1.0",
     "font-awesome": "^4.7.0",
     "formidable": "^1.2.1",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.3.0",
     "intro.js": "^2.9.3",
     "introjs": "^0.2.2",
     "method-override": "^3.0.0",
